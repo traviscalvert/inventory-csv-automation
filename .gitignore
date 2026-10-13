@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output files
+output/*
+
+# Keep output folder
+!output/.gitkeep
+
+# Local environment variables
+.env
